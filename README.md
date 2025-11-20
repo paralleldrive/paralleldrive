@@ -6,13 +6,13 @@ Parallel Drive is a software engineering lab redefining how products are built i
 
 We serve startups and builders ready to bring their products to market, merging proven engineering discipline with AI native workflows that deliver unprecedented productivity and quality. While others struggle with AI slop, we've developed agentic systems that enhance every step of the development process. Led by the engineering manager who built Adobe Firefly, we transform your ideas into intelligent products that learn, adapt, and inspire, with clarity, integrity, and technical excellence.
 
-## How We Work
+## No More Missed Deadlines
 
-A little time pressure is good for delivery times. But inaccurate estimates are very bad for quality.
+Instead of giving you estimates that are never accurate, we deliver biweekly demos of recently completed work. You always know the status and rate of progress. We use that transparency to set better priorities and adjust the plan to reflect reality. We skip brittle estimates that never account for revisions, bug fixes, and under-estimated scope, and replace them with clarity and visible progress.
 
-[Jørgensen and Sjøberg (2001)](https://www.sciencedirect.com/science/article/abs/pii/S0950584901002038) found a significant increase in defects introduced when programmers were given a schedule that was estimated incorrectly.
+**Software estimates lie.** [Research by Boehm](https://archive.org/details/softwareengineer0000boeh) found that at the initial concept stage, estimates can vary by a factor of 4x in either direction. [Studies show 70-80% of projects overrun estimates by 30-40% on average](https://www.sciencedirect.com/science/article/abs/pii/S0950584912000511). When schedules are unrealistic, [Jørgensen and Sjøberg](https://www.sciencedirect.com/science/article/abs/pii/S0950584901002038) found developers introduce significantly more defects. [Time pressure causes developers to cut corners](https://arxiv.org/pdf/2203.04374), accumulating technical debt.
 
-Our approach is to offer biweekly demos, creating pressure to ship improvements and deliver impressive work at a steady pace, without the risk of estimates. Software estimates are often wrong by a factor of 4x or more—[research by Boehm (1981)](https://archive.org/details/softwareengineer0000boeh) found that at the initial concept stage, estimates can vary by a factor of 4x in either direction. [Studies show 70-80% of projects overrun estimates by 30-40% on average](https://www.sciencedirect.com/science/article/abs/pii/S0950584912000511), while [time pressure causes developers to cut corners](https://arxiv.org/pdf/2203.04374), accumulating technical debt. By skipping the estimation step and using demos to create time pressure instead, we improve trust, transparency, and accountability without ever cutting corners or increasing defect rates.
+A little time pressure is good. But inaccurate estimates are bad for quality. By using demos instead of estimates to create delivery pressure, we improve trust, transparency, and accountability without ever cutting corners or increasing defect rates.
 
 
 ## Open Source Projects
