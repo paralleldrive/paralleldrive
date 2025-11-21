@@ -2,9 +2,9 @@
 
 Creative technology for thinking machines.
 
-Parallel Drive is a software engineering lab redefining how products are built in the AI age. We offer software engineering as a service: one monthly fee buys you development capacity with battle tested processes and cutting edge AI Driven Development powered by our open source agent frameworks.
+Parallel Drive is a software engineering lab redefining how products are built in the AI age. We deliver cutting edge R&D and open-source software frameworks, and offer software engineering as a service: one monthly fee buys you development capacity with battle tested processes and cutting edge AI Driven Development powered by our open source agent frameworks.
 
-We serve startups and builders ready to bring their products to market, merging proven engineering discipline with AI native workflows that deliver unprecedented productivity and quality. While others struggle with AI slop, we've developed agentic systems that enhance every step of the development process. Led by the engineering manager who built Adobe Firefly, we transform your ideas into intelligent products that learn, adapt, and inspire, with clarity, integrity, and technical excellence.
+We serve startups and builders ready to bring their products to market, merging proven engineering discipline with AI native workflows that deliver unprecedented productivity and quality. While others struggle with AI slop, we've developed agentic systems that enhance every step of the development process. Led by the former head of engineering for Adobe Firefly Client Platform, we transform your ideas into products that inspire and delight users, with clarity, integrity, and technical excellence.
 
 ## No More Missed Deadlines
 
